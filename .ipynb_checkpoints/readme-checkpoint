@@ -1,0 +1,25 @@
+Iris Flower Predictor
+
+This is my first machine learning project, where I built a model to predict the species of the Iris flower based on its physical characteristics.
+
+I created this project using Scikit-learn, one of Python’s most popular machine learning libraries. Along the way, I learned how to:
+
+Collect and prepare data
+
+Train a model
+
+Test and evaluate its accuracy
+
+This project was both challenging and rewarding. I faced moments of trial—like understanding feature selection and tuning the model—but overcoming them gave me practical insight into how machine learning works.
+
+Project Highlights
+
+Uses the classic Iris dataset
+
+Implements a predictive model with Scikit-learn
+
+Tested and validated the model’s accuracy
+
+Designed to be readable, extendable, and easy to follow for learners
+
+This project represents the first step in my journey to mastering machine learning. The focus here was not just to build a working model, but also to understand the logic behind the predictions.
